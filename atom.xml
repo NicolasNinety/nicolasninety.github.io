@@ -4,7 +4,7 @@
   <title><![CDATA[DainIAO]]></title>
   <link href="http://nicolasninety.github.io/atom.xml" rel="self"/>
   <link href="http://nicolasninety.github.io/"/>
-  <updated>2015-11-03T09:46:05+08:00</updated>
+  <updated>2015-11-03T10:02:07+08:00</updated>
   <id>http://nicolasninety.github.io/</id>
   <author>
     <name><![CDATA[Nicolas]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[一开始的准备]]></title>
+    <link href="http://nicolasninety.github.io/blog/2015/11/03/%5B%3F%5D-kai-shi-de-zhun-bei/"/>
+    <updated>2015-11-03T09:53:59+08:00</updated>
+    <id>http://nicolasninety.github.io/blog/2015/11/03/[?]-kai-shi-de-zhun-bei</id>
+    <content type="html"><![CDATA[<h2>有品位的科技</h2>
+
+<ol>
+<li>好</li>
+<li>有</li>
+<li>你</li>
+<li>的</li>
+</ol>
+
+]]></content>
+  </entry>
   
 </feed>
